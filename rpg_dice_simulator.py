@@ -49,4 +49,4 @@ while(True):
         else:
             print(dice_roll(play))
     except ValueError:
-        print('Opa algo deu errado, temte novamente!\n')
+        print('Opa algo deu errado, tente novamente!\n')
